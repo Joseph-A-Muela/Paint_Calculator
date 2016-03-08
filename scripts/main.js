@@ -8,3 +8,5 @@ console.log('You will need to purchase '+area+' gallons of paint.');
 
 document.write('<div>You have '+answer+' square feet to paint.</div>');
 document.write('<div>You will need to purchase '+area+' gallons of paint.</div>');
+
+
